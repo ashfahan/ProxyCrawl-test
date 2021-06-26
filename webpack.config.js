@@ -1,6 +1,6 @@
 const path = require("path");
 
-const minicssextractPlugin = require("mini-css-extract-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CompressionPlugin = require("compression-webpack-plugin");
 
@@ -11,7 +11,7 @@ module.exports = {
     rules: [
       { test: /\.html$/, use: [{ loader: "html-loader" }] },
       { test: /\.js$/, exclude: /node_modules/, use: { loader: "babel-loader" } },
-      { test: /\.(s[ac]|c)ss$/i, exclude: /node_modules/, use: [minicssextractPlugin.loader, "css-loader", "sass-loader", "postcss-loader"] }
+      { test: /\.(s[ac]|c)ss$/i, exclude: /node_modules/, use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader", "postcss-loader"] }
     ]
   },
   target: "web",
@@ -22,7 +22,7 @@ module.exports = {
       favicon: "./public/favicon.ico",
       template: "./public/index.html"
     }),
-    new minicssextractPlugin(),
+    new MiniCssExtractPlugin(),
     new CompressionPlugin({ algorithm: "gzip" })
   ],
 
