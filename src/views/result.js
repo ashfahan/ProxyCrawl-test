@@ -33,7 +33,14 @@ export const load = (...data) => {
       </div>
     </div>`;
     axios
-      .get(`https://api.proxycrawl.com/?token=${token}&autoparse=true&url=${url}`)
+      .get(`https://cors-anywhere.herokuapp.com/https://api.proxycrawl.com/?token=${token}&autoparse=true&url=${url}`, {
+        method: "GET",
+        headers: {
+          "Access-Control-Allow-Headers": "application/json",
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Methods": "GET",
+        },
+      })
       .then((resp) => {
         document.body.innerHTML = html(resp.data.body);
         script();
