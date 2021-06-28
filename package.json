@@ -30,6 +30,8 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
+    "@splidejs/splide": "^2.4.21",
+    "axios": "^0.21.1",
     "bootstrap": "^5.0.2",
     "remixicon": "^2.5.0"
   }
