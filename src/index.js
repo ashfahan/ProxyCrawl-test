@@ -1,5 +1,7 @@
 console.clear();
-import "./style/fluid.min.css"
+import "./style/fluid.css"
+import "./assets/Bebas-Neue/fonts.css"
+import "./assets/Poppins/fonts.css"
 import "./index.scss";
 
 // dymanicall import and add page
