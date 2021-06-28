@@ -11,8 +11,9 @@ module.exports = {
     rules: [
       { test: /\.html$/, exclude: /node_modules/, use: [{ loader: "html-loader" }] },
       { test: /\.js$/, exclude: /node_modules/, use: { loader: "babel-loader" } },
-      { test: /\.(s[ac]|c)ss$/i, exclude: /node_modules/, use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader", "postcss-loader"] }
-    ]
+      { test: /\.(s[ac]|c)ss$/i, exclude: /node_modules/, use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader", "postcss-loader"] },
+      { test: /\.(png|svg|jpg|jpeg)$/i, exclude: /node_modules/, use: { loader: "file-loader", options: { name: "[name].[hash].[ext]", outputPath: "assets" } } },
+    ],
   },
   plugins: [
     new HtmlWebpackPlugin({
