@@ -4,7 +4,6 @@ import "@splidejs/splide/dist/css/splide.min.css";
 
 const title = import("../assets/title.gif");
 const background = import("../assets/background.png");
-const { body } = require("../data.json");
 
 function getquerypram(name) {
   const query = window.location.search
@@ -28,9 +27,9 @@ export const load = (...data) => {
     document.body.innerHTML = "<div>Loading Product info</div>";
     axios
       .get(`https://api.proxycrawl.com/?token=${token}&autoparse=true&url=${url}`)
-      .then((data) => {
-        console.log(data);
-        document.body.innerHTML = html(data);
+      .then((resp) => {
+        console.log(resp);
+        document.body.innerHTML = html(resp.data.body);
         script();
       })
       .catch((error) => {
@@ -80,14 +79,14 @@ export const html = (data) => {
         <div id="thumb" class="splide relative">
           <div class="splide__track">
             <ul class="splide__list">
-            ${body.images
+            ${data.images
               .map((image) => {
                 return `<li class="splide__slide bg-light flex align-middle">
                 <img class="img p-1rem" src="${image}" />
               </li>`;
               })
               .join("")}
-            ${body.videos
+            ${data.videos
               .map((video) => {
                 return `<li class="splide__slide bg-light flex align-middle">
                   <video paused class="img p-1rem" src="${video}" />
@@ -111,7 +110,7 @@ export const html = (data) => {
       </div>
       <div class="column p-22" id="properties">
         <ol class="breadcrumb mb-0 pl-0">
-        ${body.breadCrumbs
+        ${data.breadCrumbs
           .map(({ name, link }) => {
             return `<li class="breadcrumb-item" data-separator=">">
             <a href="${link}">${name}</a>
@@ -123,13 +122,13 @@ export const html = (data) => {
         <h1 class="txt-normal mb-0 clr-black">Sony A8H 65-inch TV: BRAVIA OLED 4K Ultra HD Smart TV with HDR and Alexa Compatibility - 2020 Model</h1>
           <div class="my-4 flex align-middle">
             ${
-              body.isPrime
+              data.isPrime
                 ? `<div class="mx-2 flex">
                 <i class="icon pr-1rem ri-check-double-line"></i> Amazon Prime Support
               </div> |`
                 : ""
             }
-            <div class="mx-2 ${body.inStock ? "clr-valid" : "clr-error"}">${body.inStock ? "In Stock" : "Out of stock"}</div>|
+            <div class="mx-2 ${data.inStock ? "clr-valid" : "clr-error"}">${data.inStock ? "In Stock" : "Out of stock"}</div>|
             <a class="mx-2 txt-decor-none clr-body" href="">
               Add your review
             </a>
@@ -138,21 +137,21 @@ export const html = (data) => {
               <i class="icon pr-1rem ri-share-fill"></i> Share
             </a>
           </div>
-        <h2 class="clr-black">${body.price}</h2>
+        <h2 class="clr-black">${data.price}</h2>
         <div>
           <h4 class="clr-black">— Description</h4>
-          <div>${body.description}</div>
+          <div>${data.description}</div>
         </div>
         <div class="my-4">
           <div>
             <h4 class="clr-black">— Specification</h4>
           </div>
           <ul class="list-style-square">
-          ${body.brand ? `<li>Brand : ${body.brand}</li>` : ""}
-          ${body.merchantInfo?.name ? `<li>Merchant : ${body.merchantInfo?.name}</li>` : ""}
-          ${body.customerReview ? `<li>Customer Review : ${body.customerReview} from ${body.customerReviewCount}</li>` : ""}
-          ${body.shippingMessage ? `<li>Shipping : ${body.shippingMessage}</li>` : ""}
-          ${body.warrantyMessage ? `<li>Warrenty : ${body.warrantyMessage}</li>` : ""}
+          ${data.brand ? `<li>Brand : ${data.brand}</li>` : ""}
+          ${data.merchantInfo?.name ? `<li>Merchant : ${data.merchantInfo?.name}</li>` : ""}
+          ${data.customerReview ? `<li>Customer Review : ${data.customerReview} from ${data.customerReviewCount}</li>` : ""}
+          ${data.shippingMessage ? `<li>Shipping : ${data.shippingMessage}</li>` : ""}
+          ${data.warrantyMessage ? `<li>Warrenty : ${data.warrantyMessage}</li>` : ""}
         </div>
       </div>
     </div>
@@ -176,7 +175,7 @@ export const html = (data) => {
             <h4 class="clr-black">— Product Specification</h4>
           </div>
           <ul class="list-style-square">
-          ${body.productInformation
+          ${data.productInformation
             .map((spec) => {
               return `<li>${spec.name} : ${spec.value}</li>`;
             })
@@ -188,7 +187,7 @@ export const html = (data) => {
             <h4 class="clr-black">— Features</h4>
           </div>
           <ul class="list-style-square">
-          ${body.features
+          ${data.features
             .map((feature) => {
               return `<li>${feature}</li>`;
             })
@@ -200,7 +199,7 @@ export const html = (data) => {
         <div class="my-4">
           <h4 class="clr-black">— Documentation</h4>
           <ul class="list-style-square">
-          ${Object.entries(body.productGuidesAndDocuments)
+          ${Object.entries(data.productGuidesAndDocuments)
             .map(([name, link]) => {
               return `<li><a href="${link}">${name}</a></li>`;
             })
@@ -212,14 +211,14 @@ export const html = (data) => {
             <h4 class="clr-black">— Links</h4>
           </div>
           <ul class="list-style-square">
-          ${body.byLineInfo ? `<li><a href="${body.byLineInfo.link}">${body.byLineInfo.name}</a></li>` : ""}
+          ${data.byLineInfo ? `<li><a href="${data.byLineInfo.link}">${data.byLineInfo.name}</a></li>` : ""}
           </ul>
         </div>
       </div>
       <div class="tab-pane fade" id="Reviews" role="tabpanel" aria-labelledby="Reviews-tab">
         <div class="grid my-4">
           <div class="column">
-          ${body.reviews
+          ${data.reviews
             .map((reivew) => {
               return `<div class="grid my-4">
             <div class="column w-2 txt-center">
@@ -255,31 +254,31 @@ export const html = (data) => {
               <div class="grid align-middle">
                 <div class="column w-6">5 Star</div>
                 <div class="progress column">
-                  <div class="progress-bar" style="width: ${body.productReviewBottom[0]["5star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" style="width: ${data.productReviewBottom[0]["5star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div class="grid align-middle">
                 <div class="column w-6">4 Star</div>
                 <div class="progress column">
-                  <div class="progress-bar" style="width: ${body.productReviewBottom[1]["4star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" style="width: ${data.productReviewBottom[1]["4star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div class="grid align-middle">
                 <div class="column w-6">3 Star</div>
                 <div class="progress column">
-                  <div class="progress-bar" style="width: ${body.productReviewBottom[2]["3star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" style="width: ${data.productReviewBottom[2]["3star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div class="grid align-middle">
                 <div class="column w-6">2 Star</div>
                 <div class="progress column">
-                  <div class="progress-bar" style="width: ${body.productReviewBottom[3]["2star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" style="width: ${data.productReviewBottom[3]["2star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div class="grid align-middle">
                 <div class="column w-6">1 Star</div>
                 <div class="progress column">
-                  <div class="progress-bar" style="width: ${body.productReviewBottom[4]["1star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar" style="width: ${data.productReviewBottom[4]["1star"]}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
             </div>
