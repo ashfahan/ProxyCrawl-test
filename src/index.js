@@ -1,6 +1,6 @@
 console.clear();
-import "./style/fluid.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./style/fluid.css";
 import "remixicon/fonts/remixicon.css";
 import "./assets/Bebas-Neue/fonts.css";
 import "./assets/Poppins/fonts.css";
