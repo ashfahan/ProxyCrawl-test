@@ -18,14 +18,6 @@ jobs:
       - name: Build App
         run: yarn build
 
-      - name: Deploy
-        uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_ASHFAHAN_PORTFOLIO }}'
-          channelId: live
-          projectId: ashfahan-portfolio
-
       - name: Github Pages Custom Deploy
         uses: sterlingwes/gh-pages-deploy-action@v1.1
         with:
