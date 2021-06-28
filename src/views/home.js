@@ -29,9 +29,10 @@ export const html = () => {
         <div class="column relative">
           <div class="title is-sm txt-bold">We partner with <span class="txt-outline-primary clr-white">SaaS</span> and <span class="txt-outline-primary clr-white">digital product owners</span> to provide <span class="txt-outline-primary clr-white">design solutions</span> that scale for years to come.</div>
           <div class="bg-light py-2 px-4 is-pill mt-2 flex">
-            <input type="search" placeholder="Enter Amazon Url" class="bg-hide input is-min" />
-            <button class="btn is-sld is-primary is-pill py-2 px-6 ml-4 flex">Search <i class="ml-6 icon ri-search-2-line"></i></button>
+            <input type="search" id="url" placeholder="Enter Amazon Url" class="bg-hide input is-min" />
+            <button id="searchbutton" class="btn is-sld is-primary is-pill py-2 px-6 ml-4 flex">Search <i class="ml-6 icon ri-search-2-line"></i></button>
           </div>
+          <div id="error" class="hidden clr-error ml-4 mt-1rem" type="search" id="url">Please Enter Valid Amazon Product Url</div>
         </div>
         <div class="column relative txt-center"><img class="img" src="${title.file}" alt="" /></div>
       </section>
@@ -39,5 +40,13 @@ export const html = () => {
 };
 
 export const script = () => {
-  console.log("done");
+  document.querySelector("#searchbutton").onclick = () => {
+    const produturl = document.getElementById("url").value;
+    console.log(produturl);
+    if (produturl) window.location = `./result?url=${produturl}`;
+    else {
+      const error = document.getElementById("error");
+      error.classList.remove("hidden");
+    }
+  };
 };
