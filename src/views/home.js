@@ -6,7 +6,7 @@ export const load = (...data) => {
   Promise.all(resource).then((file) => {
     file.forEach((file, index) => (resource[index].file = file.default));
     document.body.innerHTML = html(...data);
-    script();
+    htmlPost();
   });
 };
 
@@ -53,7 +53,7 @@ export const html = () => {
     </main>`;
 };
 
-export const script = () => {
+export const htmlPost = () => {
   const sidebar = document.querySelector("aside");
   document.querySelector("#searchbutton").onclick = () => {
     const produturl = document.getElementById("url").value;
@@ -66,9 +66,9 @@ export const script = () => {
   };
 
   document.querySelector("#hamburgermenu_open").onclick = () => {
-    sidebar.classList.add("active")
+    sidebar.classList.add("active");
   };
   document.querySelector("#hamburgermenu_close").onclick = () => {
-    sidebar.classList.remove("active")
+    sidebar.classList.remove("active");
   };
 };

@@ -43,7 +43,7 @@ export const load = (...data) => {
       })
       .then((resp) => {
         document.body.innerHTML = html(resp.data.body);
-        script();
+        htmlPost();
       })
       .catch((error) => {
         document.body.innerHTML = `<div class="flex align-middle txt-center justify-center h-min-100vh">
@@ -332,7 +332,7 @@ export const html = (data) => {
   </footer> `;
 };
 
-export const script = () => {
+export const htmlPost = () => {
   const sidebar = document.querySelector("aside");
   new Splide("#thumb", {
     type: "loop",
