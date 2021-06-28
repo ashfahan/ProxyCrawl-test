@@ -24,12 +24,19 @@ export const load = (...data) => {
   Promise.all(resource).then((file) => {
     file.forEach((file, index) => (resource[index].file = file.default));
     const token = "h2HCtRw9r0ZIgn0wyR0hzA";
-    const url = getquerypram(url);
-    console.log(body);
-
-    // axios.get(`https://api.proxycrawl.com/?token=${token}&autoparse=true&url=${url}`).then((data) => html(data));
-    document.body.innerHTML = html(body);
-    script();
+    const url = getquerypram(url).url;
+    document.body.innerHTML = "<div>Loading Product info</div>";
+    axios
+      .get(`https://api.proxycrawl.com/?token=${token}&autoparse=true&url=${url}`)
+      .then((data) => {
+        console.log(data);
+        document.body.innerHTML = html(data);
+        script();
+      })
+      .catch((error) => {
+        document.body.innerHTML = "Error occured while loading product info";
+        console.error(error);
+      });
   });
 };
 
