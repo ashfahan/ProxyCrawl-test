@@ -4,6 +4,11 @@ export const load = () => {
 
 export const html = () => {
   return `
-  <div class="h-min-100vh flex align-middle justify-center"> Page Not found</div>
+  <div class="flex align-middle txt-center justify-center h-min-100vh">
+    <div>
+      <div style="max-width:200px" class="mx-auto"><i class="icon title is-lg clr-error ri-alert-line"></i></div>
+      <div class="txt-2 BebasNeue">Page Not Found</div>
+    </div>
+  </div>
   `;
 };
