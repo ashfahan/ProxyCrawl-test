@@ -307,8 +307,8 @@ export const html = (data) => {
   </main>
   <footer class="lyt-footer bg-darkbg-black clr-disabled p-4 pb-2">
     <div class="txt-center p-10">
-      <div class="display-4 txt-bold BebasNeue clr-white">Subscribe now and get 10% off new collection garments</div>
-      <div class="mt-2 mb-4">Sign up to be the first to hear about exclusive deals, special offers and upcoming collections</div>
+      <div class="display-4 txt-bold BebasNeue clr-white">Subscribe now you can earn a disount and get a chance to win google card</div>
+      <div class="mt-2 mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis placeat, inventore nihil amet</div>
       <div class="w-12 mx-auto column w-5 control has-icon-right">
         <input type="search" placeholder="Enter Your Email here" class="bg-hide input is-min is-light" />
         <i class="ml-6 is-right icon ri-xl ri-arrow-right-line btn p-1rem"></i>
@@ -316,7 +316,7 @@ export const html = (data) => {
     </div>
     <div class="grid justify-between">
       <div class="column w-8@md txt-center w-24">
-        <div class="clr-white">©2020 Enzy copyright</div>
+        <div class="clr-white">Ashfahan©</div>
       </div>
       <div class="column w-8@md txt-center w-24 txt-center">
         <div>Language <span class="border-bottom border-primary border-wide ">English</span></div>
