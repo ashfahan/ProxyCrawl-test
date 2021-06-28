@@ -12,7 +12,7 @@ module.exports = {
       { test: /\.html$/, exclude: /node_modules/, use: [{ loader: "html-loader" }] },
       { test: /\.js$/, use: { loader: "babel-loader" } },
       { test: /\.(s[ac]|c)ss$/i, use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader", "postcss-loader"] },
-      { test: /\.(png|svg|jpg|jpeg|ttf|otf)$/i, exclude: /node_modules/, use: { loader: "file-loader", options: { name: "[name].[hash].[ext]", outputPath: "assets" } } },
+      { test: /\.(png|svg|jpg|jpeg|ttf|otf|woff|woff2|eot|gif)$/i, use: { loader: "file-loader", options: { name: "[name].[hash].[ext]", outputPath: "assets" } } },
     ],
   },
   plugins: [
