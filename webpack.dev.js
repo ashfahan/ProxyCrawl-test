@@ -5,5 +5,5 @@ module.exports = {
   mode: "development",
   target: "web",
   devtool: "source-map",
-  devServer: { contentBase: "./public" }
+  devServer: { contentBase: "./public", open: true }
 };
