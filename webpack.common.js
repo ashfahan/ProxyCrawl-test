@@ -6,26 +6,22 @@ const CompressionPlugin = require("compression-webpack-plugin");
 
 module.exports = {
   entry: { app: "./src/index.js" },
-  output: { filename: "[name].bundle.js", path: path.resolve(__dirname, "dist"), clean: true },
+  output: { filename: "[name].[contenthash].bundle.js", path: path.resolve(__dirname, "dist"), clean: true },
   module: {
     rules: [
-      { test: /\.html$/, use: [{ loader: "html-loader" }] },
+      { test: /\.html$/, exclude: /node_modules/, use: [{ loader: "html-loader" }] },
       { test: /\.js$/, exclude: /node_modules/, use: { loader: "babel-loader" } },
       { test: /\.(s[ac]|c)ss$/i, exclude: /node_modules/, use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader", "postcss-loader"] }
     ]
   },
-  target: "web",
   plugins: [
     new HtmlWebpackPlugin({
       scriptLoading: "defer",
       inject: true,
       favicon: "./public/favicon.ico",
-      template: "./public/index.html"
+      template: "./public/template.html"
     }),
     new MiniCssExtractPlugin(),
     new CompressionPlugin({ algorithm: "gzip" })
-  ],
-
-  devtool: "source-map",
-  devServer: { contentBase: "./public" }
+  ]
 };
