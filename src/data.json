@@ -1,464 +1,466 @@
 {
-  "original_status": 200,
-  "pc_status": 200,
-  "url": "https://www.amazon.com/Sony-A8H-65-Inch-Compatibility/dp/B084KQLVKH/ref=sr_1_1",
-  "body": {
-    "name": "Sony A8H 65-inch TV: BRAVIA OLED 4K Ultra HD Smart TV with HDR and Alexa Compatibility - 2020 Model",
-    "price": "$1,796.11",
-    "canonicalUrl": "https://www.amazon.com/Sony-A8H-65-Inch-Compatibility/dp/B084KQLVKH",
-    "soldBy": { "sellerID": "ATVPDKIKX0DER", "name": "Asd", "link": null },
-    "asinVariationValues": [],
-    "isPrime": true,
-    "inStock": true,
-    "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41WpjV8YxVL.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/I/51ZMijqyfML.jpg", "https://images-na.ssl-images-amazon.com/images/I/617hw4OjHWL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51F8xIYQ3yL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51B8WLIH+eL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51esCnhUNRL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51ChAtGikYL.jpg"],
-    "highResolutionImages": [
-      "https://images-na.ssl-images-amazon.com/images/I/61F0MXKMLwL._AC_SL1080_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/81iWIWc%2BpWL._AC_SL1500_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/71FVqcGidaL._AC_SL1000_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/61DJKvXE5kL._AC_SL1000_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/619L09hsKvL._AC_SL1000_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/61ZqMoTv%2B9L._AC_SL1056_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/61mTr-A%2BP2L._AC_SL1176_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/71p5r7fsRVL._AC_SL1500_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/71kBcdO7MdL._AC_SL1033_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/61wvj3uzeyL._AC_SL1000_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/617Dr7YOeVL._AC_SL1000_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/61OcgXab9TL._AC_SL1200_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/61K-%2BvLq8FL._AC_SL1000_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/419vs7urRKL._AC_SL1200_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/819iD1yyHgL._AC_SL1500_.jpg",
-      "https://images-na.ssl-images-amazon.com/images/I/71bDZCmAFRL._AC_SL1500_.jpg"
-    ],
-    "videos": ["https://d2y5sgsy8bbmb8.cloudfront.net/cc3b11e3-a717-4cb2-9494-3ea4fc11bbcb/default.jobtemplate.mp4.480.mp4", "https://d2y5sgsy8bbmb8.cloudfront.net/2264bf11-3ee2-43bd-b1f9-937dccda9315/default.jobtemplate.mp4.480.mp4", "https://d2y5sgsy8bbmb8.cloudfront.net/4ca6c944-6181-4292-8672-cf539d7d7ab8/default.jobtemplate.mp4.480.mp4"],
-    "productGuidesAndDocuments": {
-      "productDocumentationLink": "https://m.media-amazon.com/images/I/91GTs3FX7yS.pdf",
-      "userManualLink": "https://m.media-amazon.com/images/I/A1OxscWXYzS.pdf"
-    },
-    "byLineInfo": {
-      "name": "Visit the Sony Store",
-      "link": "https://www.amazon.com/stores/Sony+/page/AEA5D08A-7FC6-45D4-B121-C8A6FA25219F?ref_=ast_bln"
-    },
-    "brand": "Sony",
-    "merchantInfo": null,
-    "customerReview": "4.8 out of 5 stars",
-    "customerReviewCount": 1128,
-    "editorialReviews": [],
-    "warrantyMessage": null,
-    "shippingMessage": "FREE Scheduled Delivery",
-    "climatePledgeFriendly": { "present": false, "details": "" },
-    "features": [
-      "PICTURE PROCESSOR X1 ULTIMATE: Sony’s best processor analyzes content to bring out OLED’s intense contrast with pure blacks, peak brightness and natural colors. X-Reality PRO upscale everything you watch to near 4K.",
-      "OLED plus PIXEL CONTRAST BOOSTER: Millions of individual pixels are supercharged for more vibrant colors to complement absolute OLED black.",
-      "GAME MODE: Take your PlayStation experience to the next level with a Sony 4K gaming TV featuring dedicated Game Mode for a smoother, more responsive gaming experience.",
-      "SMART ANDROID TV with GOOGLE ASSISTANT: Use your voice to control your TV and smart home devices, easily search for movies and shows, get answers, and manage tasks.",
-      "WORKS WITH ALEXA: Stream smart camera feeds with your voice. Through an Alexa enabled device, just ask Alexa to play music, launch video apps, turn up the volume, and more.",
-      "APPLE AIRPLAY 2 and HOMEKIT SUPPORT: Seamlessly integrate your iPhone and Siri devices with your Sony TV for effortless smart home management and content streaming.",
-      "TRILUMINOS Display: See exactly what the creator intended with advanced color and gradation",
-      "ACOUSTIC SURFACE AUDIO: 2.1 channel sound from the entire screen, creating an immersive multidimensional audio experience.",
-      "NETFLIX CALIBRATED MODE, DOLBY VISION, IMAX ENHANCED: Enjoy immersive and engaging cinematic content as the creator intended.",
-      "SUPER-SLIM ONE-SLATE DESIGN: Flush surface and narrow aluminum bezel harmoniously blends into any environment. A 2-way stand provides a low-profile option for distraction-free viewing or adjust to raise up and seamlessly fit a soundbar."
-    ],
-    "description": "Experience an ultra-realistic image with the power of OLED technology. The powerful Picture Processor X1 Ultimate utilizes over 8 million individual pixels to create an image with exquisite contrast and vibrant color. Pixel Contrast Booster supercharges each pixel to deliver incredible picture quality. Connect Alexa to your compatible Sony TV to stream smart camera feeds with your voice. You can also ask Alexa to play music, launch video apps, and more and see it all on your Sony TV. Bluetooth profile support : Version 4.2; HID (mouse/keyboard connectivity)/HOGP (Low Energy device connectivity)/SPP (Serial Port Profile)/A2DP (stereo audio)/AVRCP (AV remote control).",
-    "breadCrumbs": [
-      {
-        "name": "Electronics",
-        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8\u0026node=172282"
+  "data": {
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Sony-A8H-65-Inch-Compatibility/dp/B084KQLVKH/ref=sr_1_1",
+    "body": {
+      "name": "Sony A8H 65-inch TV: BRAVIA OLED 4K Ultra HD Smart TV with HDR and Alexa Compatibility - 2020 Model",
+      "price": "$1,796.11",
+      "canonicalUrl": "https://www.amazon.com/Sony-A8H-65-Inch-Compatibility/dp/B084KQLVKH",
+      "soldBy": { "sellerID": "ATVPDKIKX0DER", "name": "Asd", "link": null },
+      "asinVariationValues": [],
+      "isPrime": true,
+      "inStock": true,
+      "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41WpjV8YxVL.jpg",
+      "images": ["https://images-na.ssl-images-amazon.com/images/I/51ZMijqyfML.jpg", "https://images-na.ssl-images-amazon.com/images/I/617hw4OjHWL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51F8xIYQ3yL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51B8WLIH+eL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51esCnhUNRL.jpg", "https://images-na.ssl-images-amazon.com/images/I/51ChAtGikYL.jpg"],
+      "highResolutionImages": [
+        "https://images-na.ssl-images-amazon.com/images/I/61F0MXKMLwL._AC_SL1080_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81iWIWc%2BpWL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71FVqcGidaL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61DJKvXE5kL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/619L09hsKvL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61ZqMoTv%2B9L._AC_SL1056_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61mTr-A%2BP2L._AC_SL1176_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71p5r7fsRVL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71kBcdO7MdL._AC_SL1033_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61wvj3uzeyL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/617Dr7YOeVL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61OcgXab9TL._AC_SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61K-%2BvLq8FL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/419vs7urRKL._AC_SL1200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/819iD1yyHgL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71bDZCmAFRL._AC_SL1500_.jpg"
+      ],
+      "videos": ["https://d2y5sgsy8bbmb8.cloudfront.net/cc3b11e3-a717-4cb2-9494-3ea4fc11bbcb/default.jobtemplate.mp4.480.mp4", "https://d2y5sgsy8bbmb8.cloudfront.net/2264bf11-3ee2-43bd-b1f9-937dccda9315/default.jobtemplate.mp4.480.mp4", "https://d2y5sgsy8bbmb8.cloudfront.net/4ca6c944-6181-4292-8672-cf539d7d7ab8/default.jobtemplate.mp4.480.mp4"],
+      "productGuidesAndDocuments": {
+        "productDocumentationLink": "https://m.media-amazon.com/images/I/91GTs3FX7yS.pdf",
+        "userManualLink": "https://m.media-amazon.com/images/I/A1OxscWXYzS.pdf"
       },
-      {
-        "name": "Television \u0026 Video",
-        "link": "https://www.amazon.com/Televisions-Video/b/ref=dp_bc_aui_C_2?ie=UTF8\u0026node=1266092011"
+      "byLineInfo": {
+        "name": "Visit the Sony Store",
+        "link": "https://www.amazon.com/stores/Sony+/page/AEA5D08A-7FC6-45D4-B121-C8A6FA25219F?ref_=ast_bln"
       },
-      {
-        "name": "Televisions",
-        "link": "https://www.amazon.com/TVs-HDTVs-Audio-Video/b/ref=dp_bc_aui_C_3?ie=UTF8\u0026node=172659"
-      },
-      {
-        "name": "OLED TVs",
-        "link": "https://www.amazon.com/OLED-TVs/b/ref=dp_bc_aui_C_4?ie=UTF8\u0026node=6463520011"
-      }
-    ],
-    "productInformation": [
-      { "name": "Brand Name", "value": "‎Sony" },
-      { "name": "Item Weight", "value": "‎52 pounds" },
-      { "name": "Product Dimensions", "value": "‎57.25 x 13.38 x 33.75 inches" },
-      { "name": "Item model number", "value": "‎XBR65A8H" },
-      { "name": "Is Discontinued By Manufacturer", "value": "‎No" },
-      { "name": "Color Name", "value": "‎Black" },
-      {
-        "name": "Special Features",
-        "value": "‎TRILUMINOS Display Technology; X-Motion Clarity Technology; Ambient Optimization Technology; HDR, IMAX Enhanced, and Netflix Calibrated Mode, Picture Processor X1 Ultimate; Pixel Contrast Booster; Acoustic Surface Audio; Voice Control with the Google Assistant; 4K X-Reality PRO and Object-Based Super Resolution"
-      },
-      { "name": "Speaker Type", "value": "‎Surround" },
-      { "name": "ASIN", "value": "B084KQLVKH" },
-      {
-        "name": "Customer Reviews",
-        "value": "4.8 out of 5 stars 1,128 ratings 4.8 out of 5 stars"
-      },
-      {
-        "name": "Best Sellers Rank",
-        "value": "#539 in Electronics (See Top 100 in Electronics) #2 in OLED TVs"
-      },
-      { "name": "Date First Available", "value": "April 6, 2020" },
-      { "name": "Screen Size", "value": "64.5 Inches" },
-      { "name": "Supported Internet Services", "value": "Netflix" },
-      { "name": "Connectivity Technology", "value": "Wireless" },
-      { "name": "Brand", "value": "Sony" },
-      { "name": "Resolution", "value": "4K" }
-    ],
-    "manufacturerProductDescription": [
-      {
-        "media_text": "Pure black. Precise reality. A8H BRAVIA OLED 4K HDR TV WITH ALEXA COMPATIBILITY",
-        "media_link": ["https://m.media-amazon.com/images/S/aplus-media/vc/9eed5903-a89b-4b30-aaac-eabb83f16130.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"]
-      },
-      {
-        "media_text": "Picture Processor X1 Ultimate Bringing the best out of OLED beauty. With unmatched processing power, the Picture Processor X1 Ultimate analyzes content to bring out OLEDs intense contrast with pure blacks, peak brightness and natural colors.",
-        "media_link": ["https://m.media-amazon.com/images/S/aplus-media/vc/7401f650-437a-4595-b0c0-8058b29e93dc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"]
-      },
-      {
-        "media_text": "Previous page Extra depth and realism Vibrant colors and absolute OLED black Millions of individual pixels are supercharged by the Pixel Contrast Booster. Acoustic Surface Audio 2.1 channel sound from the entire screen, creating an immersive multidimensional audio experience. Watch what you love, control it with your voice. Use your voice to access content, services, devices, and more with Android TV and Google Assistant. Supreme resolution, whatever you're watching. Experience a more natural picture with 4K X-Reality PRO \u0026 Object-Based Super Resolution. Bringing you all the world’s colors See exactly what the creator intended with the advanced color and gradation of TRILUMINOS Display. Next page 1 Pixel Contrast Booster 2 Acoustic Surface Audio 3 Android TV 4 4K X-Reality PRO 5 TRILUMINOS Display",
-        "media_link": []
-      },
-      {
-        "media_text": "Previous page Bright and clear motion. OLED + X-Motion Clarity makes fast-moving scenes bright and clear. Sony’s unique Ambient Optimization technology Picture and sound are automatically adjusted to your environment. Ultra-high resolution and HDR video content HDR, Dolby Vision, IMAX Enhanced and Netflix Calibrated Mode bring dazzling detail and color. Next page 1 Works with Alexa 2 X-Motion Clarity 3 Supreme Picture \u0026 Sound 4 4K HDR",
-        "media_link": []
-      },
-      {
-        "media_text": "Previous page Incredibly thin one-slate design. The super-slim one-slate design and narrow aluminum bezel harmoniously blend into any environment. Premium metal stand, ready for soundbars. The stand can be low profile for distraction-free viewing or adjusted up to fit a sound bar. available on 55”/65” Hang your TV like a work of art Hang your TV flush to the wall with the SU-WL855 ultra-slim wall-mount bracket (sold separately). Next page 1 Super-slim 2 Premium metal stand 3 Ultra-slim wall-mount",
-        "media_link": []
-      },
-      {
-        "media_text": "Sony 4K HDR TVS A8H Series A9S MASTER Series A9G MASTER Series Z8H Series X950H Series X900H Series X800H Series Screen sizes 55\" / 65\" 48\" 55\" / 65\" / 77\" 75\"/ 85\" 49\" / 55\" / 65\" / 75\" / 85\" 55\" / 65\" / 75\" / 85\" 43\"/ 49\"/ 55\"/ 65\"/ 75\"/ 85\" Display Technology OLED OLED OLED LED (Advanced Full-Array) LED (Advanced Full-Array) LED (Full-Array) LED Display Resolution 4K HDR 4K HDR 4K HDR 8K HDR 4K HDR 4K HDR 4K HDR Picture Processor X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 4K HDR X1 4K HDR Contrast OLED + Pixel Contrast Booster OLED + Pixel Contrast Booster OLED + Pixel Contrast Booster 8K XDR Pro 14x X-tended Dynamic Range Pro 6x X-tended Dynamic Range Dynamic Contrast Enhancer Refresh Rate X-Motion Clarity - 120HZ X-Motion Clarity - 120HZ MotionFlow XR - 120HZ X-Motion Clarity - 120HZ X-Motion Clarity - 120HZ X-Motion Clarity - 120HZ MotionFlow XR240 - 60HZ Viewing Angle OLED Wide Angle OLED Wide Angle OLED Wide Angle X-Wide Angle X-Wide Angle (Excluding 49\") — — Netflix Calibrated Mode ✔ ✔ ✔ ✔ ✔ ✔ ✘ Dolby Vision \u0026 Atmos ✔ ✔ ✔ ✔ ✔ ✔ ✔ Sound Technology Acoustic Surface Audio Acoustic Surface Audio Acoustic Surface Audio+ Acoustic Multi-Audio Acoustic Multi-Audio (no 49\") Acoustic Multi-Audio (No 55\") — Android TV w/ Google Assistant Yes Yes Yes (Hands Free) Yes (Hands Free) Yes (Hands Free) Yes Yes Alexa/AirPlay/HomeKit Compat. ✔ ✔ ✔ ✔ ✔ ✔ ✔",
-        "media_link": []
-      }
-    ],
-    "sponsoredAds": [
-      {
-        "spTitle": "Sony A80J 65 Inch TV: BRAVIA XR OLED 4K Ultra HD Smart Google TV with Dolby Vision HDR and Alexa Compatibility XR65A80J- 2021 Model",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,198.00",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8\u0026adId=A037822819WUK2RZ1W93F\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08TKR3WLJ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08TKR3WLJ%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
-        "spAverageReview": "5 Star",
-        "spReviewCount": 80,
-        "spIsPrime": true,
-        "spAsin": "B08TKR3WLJ"
-      },
-      {
-        "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with an Additional 1 Year Coverage by Epic Protect (2020)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$1,853.19",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8\u0026adId=A00850091J7L7P9YTMCFZ\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08HSSYKYK%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08HSSYKYK%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a%26smid%3DA2K7RN1DSQCI9O",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 2,
-        "spIsPrime": false,
-        "spAsin": "B08HSSYKYK"
-      },
-      {
-        "spTitle": "LG OLED65C1PUB Alexa Built-in C1 Series 65\" 4K Smart OLED TV (2021)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,096.99",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8\u0026adId=A0402649UBASFKTGV256\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08WG4HKKY%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08WG4HKKY%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 98,
-        "spIsPrime": true,
-        "spAsin": "B08WG4HKKY"
-      },
-      {
-        "spTitle": "Sony XBR-55A9G 55\" (3840 x 2160) Bravia 4K Ultra High Definition Smart OLED TV with a Walts TV Medium Full Motion Mount for 32\"-65\" Compatible TV's and a Walts HDTV Screen Cleaner Kit (2021)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,375.98",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8\u0026adId=A04592661GTLZ4OFHYWED\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB09449GBW3%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09449GBW3%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
-        "spAverageReview": "1 Star",
-        "spReviewCount": 1,
-        "spIsPrime": false,
-        "spAsin": "B09449GBW3"
-      },
-      {
-        "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with a Sony HT-G700 3.1 Channel Bluetooth Soundbar and Wireless Subwoofer (2020)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,192.99",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8\u0026adId=A00806252DPC7TZLFO16P\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08FRR8T7Z%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08FRR8T7Z%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a%26smid%3DA2K7RN1DSQCI9O",
-        "spAverageReview": "5 Star",
-        "spReviewCount": 5,
-        "spIsPrime": false,
-        "spAsin": "B08FRR8T7Z"
-      },
-      {
-        "spTitle": "Sony X91J 85 Inch TV: Full Array LED 4K Ultra HD Smart Google TV with Dolby Vision HDR and Alexa Compatibility KD85X91J- 2021 Model",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,998.00",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8\u0026adId=A01759832EYXZ9Z4CYDOB\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08XLDLRBH%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08XLDLRBH%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 114,
-        "spIsPrime": true,
-        "spAsin": "B08XLDLRBH"
-      },
-      {
-        "spTitle": "Sony XBR-55A9G 55-inch TV: MASTER Series BRAVIA OLED 4K Ultra HD Smart TV with HDR and Alexa Compatibility - 2019 Model",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,298.00",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8\u0026adId=A06315723KTIFGV7QAJY4\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB07P11D928%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07P11D928%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a%26smid%3DAXCB29L39I26U",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 810,
-        "spIsPrime": true,
-        "spAsin": "B07P11D928"
-      },
-      {
-        "spTitle": "Sony X85J 55 Inch TV: 4K Ultra HD LED Smart Google TV with Native 120HZ Refresh Rate, Dolby Vision HDR and Alexa Compatibility KD55X85J- 2021 Model",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$998.00",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8\u0026adId=A06345291L8PLTCP9GYHN\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08WJKXNLV%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08WJKXNLV%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 11,
-        "spIsPrime": true,
-        "spAsin": "B08WJKXNLV"
-      },
-      {
-        "spTitle": "LG OLED65GXPUA Alexa BuiltIn GX 65-inch Gallery Design 4K Smart OLED TV (2020 Model)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,096.99",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8\u0026adId=A06714133RMR22N9IOMJ0\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB0817K8TJJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0817K8TJJ%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 289,
-        "spIsPrime": true,
-        "spAsin": "B0817K8TJJ"
-      },
-      {
-        "spTitle": "Sony XBR-65X950H 65-Inch Class 4K Ultra HD HDR Android Smart LED TV - 3840 x 2160-120 Hz - 16:9-16 GB - Wi-Fi - Bluetooth - Alexa - Google Assistant - Black (Renewed)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$1,510.90",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8\u0026adId=A0681910263Z9I9OKYOK7\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08WJL56RQ%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB08WJL56RQ%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
-        "spAverageReview": null,
-        "spReviewCount": 0,
-        "spIsPrime": false,
-        "spAsin": "B08WJL56RQ"
-      },
-      {
-        "spTitle": "Sony A80J 65 Inch TV: BRAVIA XR OLED 4K Ultra HD Smart Google TV with Dolby Vision HDR and Alexa Compatibility XR65A80J- 2021 Model",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,198.00",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8\u0026adId=A037822819WUK2RZ1W93F\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08TKR3WLJ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08TKR3WLJp13NParams",
-        "spAverageReview": "5 Star",
-        "spReviewCount": 80,
-        "spIsPrime": true,
-        "spAsin": "B08TKR3WLJ"
-      },
-      {
-        "spTitle": "Sony XBR-55A9G 55\" (3840 x 2160) Bravia 4K Ultra High Definition Smart OLED TV with a Walts TV Medium Full Motion Mount for 32\"-65\" Compatible TV's and a Walts HDTV Screen Cleaner Kit (2021)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,375.98",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8\u0026adId=A04592661GTLZ4OFHYWED\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB09449GBW3%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09449GBW3p13NParams",
-        "spAverageReview": "1 Star",
-        "spReviewCount": 1,
-        "spIsPrime": false,
-        "spAsin": "B09449GBW3"
-      },
-      {
-        "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with an Additional 1 Year Coverage by Epic Protect (2020)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$1,853.19",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8\u0026adId=A00850091J7L7P9YTMCFZ\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08HSSYKYK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08HSSYKYKp13NParams%26smid%3DA2K7RN1DSQCI9O",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 2,
-        "spIsPrime": false,
-        "spAsin": "B08HSSYKYK"
-      },
-      {
-        "spTitle": "Full Motion Swivel Articulating TV Wall Mount Bracket for Most 50-100 inch LCD, OLED 4K Flat Curved TV with 29 Inch Long Extension Arm, Fits 24 Inch Studs Max VESA 800x600mm up to 154 lbs by Pipishell",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$79.98",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8\u0026adId=A00657681M47BTROYYQZA\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08CC91QX2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08CC91QX2p13NParams",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 149,
-        "spIsPrime": true,
-        "spAsin": "B08CC91QX2"
-      },
-      {
-        "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with a Sony HT-G700 3.1 Channel Bluetooth Soundbar and Wireless Subwoofer (2020)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,192.99",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8\u0026adId=A00806252DPC7TZLFO16P\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08FRR8T7Z%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08FRR8T7Zp13NParams%26smid%3DA2K7RN1DSQCI9O",
-        "spAverageReview": "5 Star",
-        "spReviewCount": 5,
-        "spIsPrime": false,
-        "spAsin": "B08FRR8T7Z"
-      },
-      {
-        "spTitle": "BLUE STONE Tilt TV Wall Mount Bracket for Most 32-83 Inches TVs, TV Wall Mount with VESA up to 600x400mm, Weight up to 165lbs, Fit 16\", 18\", 24\" Studs, LED, LCD, OLED, 4K Flat Screen Curved TV Mount",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$24.95",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8\u0026adId=A02103191EMYWHGEBX4DW\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB07Y1MFXT5%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07Y1MFXT5p13NParams%26smid%3DA1FDNZQBIIBNTO",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 2,
-        "spIsPrime": true,
-        "spAsin": "B07Y1MFXT5"
-      },
-      {
-        "spTitle": "LG OLED65C1PUB Alexa Built-in C1 Series 65\" 4K Smart OLED TV (2021)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,096.99",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8\u0026adId=A0402649UBASFKTGV256\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08WG4HKKY%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08WG4HKKYp13NParams",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 98,
-        "spIsPrime": true,
-        "spAsin": "B08WG4HKKY"
-      },
-      {
-        "spTitle": "TV Wall Mount Bracket Full Motion Swivel Articulating for Most 50-90 inch LCD, OLED 4K Flat Curved TV with 29 Inch Long Extension Arm, Fits 24 Inch Studs Max VESA 800x400mm up to 154 lbs by Pipishell",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$84.25",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8\u0026adId=A0041289F2LHMXRWLF3R\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08CC6LXNN%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08CC6LXNNp13NParams",
-        "spAverageReview": "5 Star",
-        "spReviewCount": 273,
-        "spIsPrime": true,
-        "spAsin": "B08CC6LXNN"
-      },
-      {
-        "spTitle": "LG OLED77GXPUA Alexa BuiltIn GX 77-inch Gallery Design 4K Smart OLED TV (2020 Model)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$3,296.99",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8\u0026adId=A07750515U7LHZ1CTW0N\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB0829RZXLJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0829RZXLJp13NParams",
-        "spAverageReview": "4 Star",
-        "spReviewCount": 87,
-        "spIsPrime": true,
-        "spAsin": "B0829RZXLJ"
-      },
-      {
-        "spTitle": "Sony XR55A90J 55\" A90J Series HD OLED 4K Smart TV with an Additional 4 Year Coverage by Epic Protect (2021)",
-        "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
-        "spPrice": "$2,937.26",
-        "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8\u0026adId=A08582773H6H73OEJ6HLE\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08Z8H2F31%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB08Z8H2F31p13NParams",
-        "spAverageReview": null,
-        "spReviewCount": 0,
-        "spIsPrime": false,
-        "spAsin": "B08Z8H2F31"
-      }
-    ],
-    "productReviewBottom": [{ "5star": "87%" }, { "4star": "7%" }, { "3star": "2%" }, { "2star": "2%" }, { "1star": "2%" }],
-    "reviews": [
-      {
-        "reviewerName": "Samantha Friedman",
-        "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGVERHE3HKDJWPLALQZWCUNX3QKA",
-        "reviewLink": "https://www.amazon.com/gp/customer-reviews/R16HD118MMHN3W?ASIN=B084KQLVKH",
-        "reviewRating": "1.0 out of 5 stars",
-        "reviewDate": "Reviewed in the United States on November 18, 2020",
-        "reviewTitle": "NEVER buy expensive products from Amazon - Use Best Buy",
-        "reviewText": "Instead of writing about the TV itself, my focus in this review is going to be on the disastrous process of purchasing this TV, “expert installation” and lack of reasonable support through the terrible Happiness Guarantee process once things went wrong.When I saw this TV on a great sale during Prime Day, I was excited! Since I live alone, I knew I needed to purchase expert installation to have something like this mounted. I strongly considered using Best Buy instead as I have had good experience with them, but being a long time Amazon customer I wanted to give them a try.The initial (yes, I have now been through multiple deliveries) delivery of the TV was fine. The day of the “expert installation” was scheduled the technician showed up by himself but said the TV was not heavy and he could confidently mount it to my wall on his own, as he has done before. (Question for Amazon-why would this be an acceptable policy?) I said ok and let the technician get to work. To start, he was supposed to measure 42 inches from the floor - I didn’t realize until much later but he measured 46 inches from the floor. The technician spent over an hour and a half getting things ready to put the TV on the mount. It felt like a while but I remained patient.When the time finally came, we lifted the TV onto the wall mount on the wall. The technician then went to tighten the TV to the mount and THE ENTIRE MOUNT AND TV fell out from the wall, banged things on its way and crashed on the floor. The pictures of the aftermath are what I have posted in this review - as you can clearly see, there is not only major damage to the TV but my personal property as well.The problem was clear - the knuts used to screw the mount into the wall were tiny, had no anchor and we’re not on a stud. I’m no technician but as an average person, seems pretty obvious that with an expensive 65 inch OLED that is the wrong way to securely mount it anywhere.I was now left with a broken TV and no plan to fix anything. It took me over 6 hours on the phone to setup a replacement TV to be sent and have someone pick up the broken one. The first time they were supposed to pick up the TV, Amazon did not so I had to go through this twice over a two week period and it was beyond frustrating having multiple boxes taxing up most of my apartment.The Amazon Happiness Guarantee process may have been the icing on the cake for how terrible this became. I was required to fill out tons of information but NO ONE would pick up the phone to call me and talk through it. Instead, they want me to have even more than the 6 people already in my apartment to now come in and take estimates to see what could be done to fix the work. Given my career, the amount of insane time I have put into getting this resolved to date and the risk of COVID, why is it so difficult for Amazon to find a way to offer me something to address this clear disaster they created that doesn’t put me at further risk of catching this deadly virus going around? Why couldn’t they make a phone call? Why not even an offer to waive my Prime membership for a couple of years?In case you are considering using Amazon in the future for a large TV purchase and need help with installation - DON’T DO IT! Go to Best Buy. They actually do care and backup their work. I will be documenting my experience with the second round of mounting, which has also been disappointing, in a separate review. The point I hope is clear to anyone reading this - don’t let the Amazon Happiness Guarantee make you think when things go wrong Amazon can help. The level of support that should be provided for a purchase of this size is not something Amazon is capable of - even in a case as blatantly clear as mine. Nor are they capable of effectively managing their vendors as I experienced with Goodman Solutions who serve the Denver, CO market for Amazon installations.I’m sure the TV is great... but I won’t know until I am actually able to watch it and it’s been over a month since my original purchase. I wish my focus was on the quality of the TV. Unfortunately, my focus has been and remains on Amazon’s negligence in vendor management and unacceptable approach to resolution. Felt it necessary to share so others don’t have to go through the same thing I did.",
-        "reviewVotes": "290 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": {
-          "images": ["https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/719vSPLbr-L.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/71NMou5wbFL.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81KIksKyU0L.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81MpYGhnj0L.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81UpV4GEdDL.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81uYLuXlx5L.jpg"],
-          "video": null
+      "brand": "Sony",
+      "merchantInfo": null,
+      "customerReview": "4.8 out of 5 stars",
+      "customerReviewCount": 1128,
+      "editorialReviews": [],
+      "warrantyMessage": null,
+      "shippingMessage": "FREE Scheduled Delivery",
+      "climatePledgeFriendly": { "present": false, "details": "" },
+      "features": [
+        "PICTURE PROCESSOR X1 ULTIMATE: Sony’s best processor analyzes content to bring out OLED’s intense contrast with pure blacks, peak brightness and natural colors. X-Reality PRO upscale everything you watch to near 4K.",
+        "OLED plus PIXEL CONTRAST BOOSTER: Millions of individual pixels are supercharged for more vibrant colors to complement absolute OLED black.",
+        "GAME MODE: Take your PlayStation experience to the next level with a Sony 4K gaming TV featuring dedicated Game Mode for a smoother, more responsive gaming experience.",
+        "SMART ANDROID TV with GOOGLE ASSISTANT: Use your voice to control your TV and smart home devices, easily search for movies and shows, get answers, and manage tasks.",
+        "WORKS WITH ALEXA: Stream smart camera feeds with your voice. Through an Alexa enabled device, just ask Alexa to play music, launch video apps, turn up the volume, and more.",
+        "APPLE AIRPLAY 2 and HOMEKIT SUPPORT: Seamlessly integrate your iPhone and Siri devices with your Sony TV for effortless smart home management and content streaming.",
+        "TRILUMINOS Display: See exactly what the creator intended with advanced color and gradation",
+        "ACOUSTIC SURFACE AUDIO: 2.1 channel sound from the entire screen, creating an immersive multidimensional audio experience.",
+        "NETFLIX CALIBRATED MODE, DOLBY VISION, IMAX ENHANCED: Enjoy immersive and engaging cinematic content as the creator intended.",
+        "SUPER-SLIM ONE-SLATE DESIGN: Flush surface and narrow aluminum bezel harmoniously blends into any environment. A 2-way stand provides a low-profile option for distraction-free viewing or adjust to raise up and seamlessly fit a soundbar."
+      ],
+      "description": "Experience an ultra-realistic image with the power of OLED technology. The powerful Picture Processor X1 Ultimate utilizes over 8 million individual pixels to create an image with exquisite contrast and vibrant color. Pixel Contrast Booster supercharges each pixel to deliver incredible picture quality. Connect Alexa to your compatible Sony TV to stream smart camera feeds with your voice. You can also ask Alexa to play music, launch video apps, and more and see it all on your Sony TV. Bluetooth profile support : Version 4.2; HID (mouse/keyboard connectivity)/HOGP (Low Energy device connectivity)/SPP (Serial Port Profile)/A2DP (stereo audio)/AVRCP (AV remote control).",
+      "breadCrumbs": [
+        {
+          "name": "Electronics",
+          "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8\u0026node=172282"
+        },
+        {
+          "name": "Television \u0026 Video",
+          "link": "https://www.amazon.com/Televisions-Video/b/ref=dp_bc_aui_C_2?ie=UTF8\u0026node=1266092011"
+        },
+        {
+          "name": "Televisions",
+          "link": "https://www.amazon.com/TVs-HDTVs-Audio-Video/b/ref=dp_bc_aui_C_3?ie=UTF8\u0026node=172659"
+        },
+        {
+          "name": "OLED TVs",
+          "link": "https://www.amazon.com/OLED-TVs/b/ref=dp_bc_aui_C_4?ie=UTF8\u0026node=6463520011"
         }
-      },
-      {
-        "reviewerName": "Larry Tisor",
-        "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQNFDLZLUUB6L7EP64PTR4ONB7Q",
-        "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1OGI75UU5CY1O?ASIN=B084KQLVKH",
-        "reviewRating": "1.0 out of 5 stars",
-        "reviewDate": "Reviewed in the United States on June 8, 2020",
-        "reviewTitle": "Very disappointed!",
-        "reviewText": "Picture keeps dimming even with light sensor turned off.Picture starts off great , then gets dark.I want my picture settings to stay where I put them.I am UNHAPPY, wish I could send it back.Sony's auto dimming feature is terrible!",
-        "reviewVotes": "262 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": { "images": [], "video": null }
-      },
-      {
-        "reviewerName": "OnlyLlama",
-        "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBDDZUe57RE7NIQNQGZQZY6NZEQQ",
-        "reviewLink": "https://www.amazon.com/gp/customer-reviews/RRTSRMW5TDXDI?ASIN=B084KQLVKH",
-        "reviewRating": "2.0 out of 5 stars",
-        "reviewDate": "Reviewed in the United States on October 19, 2020",
-        "reviewTitle": "Ads. Everywhere. Did I just pay money for an ad-dispensing machine?",
-        "reviewText": "Let's get the obvious out the way. The image quality, viewing angle, black levels are all fantastic. This is a 5-star TV through and through when it comes to image quality, especially when fed a 4K 60hz signal.But I just paid circa $2K for a TV that forces ads on me. If I disable one type of \"suggested\" programming in settings, another one comes up. It's an ad whack-a-mole. The latest one I got today was a \"Bravia Notification\", picture attached. There is no way to disable it. Want to switch from Netflix to YouTube TV? Ads. Turning on your TV? Ads.This is wrong. I will not be the product. I reject the now-common practice of forcing ads on all smart TVs. Sony+Google have crossed the line, and I refuse to believe that it's normal to just sit there and be forced to consume marketing materials as you go about simple daily tasks. Absolutely disgusted with Sony. I do not recommend this TV purely on those grounds.I honestly don't know what to do since TCL, Samsung and LG all have equally intrusive or worse ads. That doesn't make it ok for Sony to sink to this level. I had an XBR 27\" curved CRT, a 32\" flat screen XBR, a 2007 40\" XBR LED, a 2013 55\" Bravia LED and now this TV. Sony as a brand is now dead to me since it's clearly become Google's b****.",
-        "reviewVotes": "213 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": {
-          "images": ["https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/71PuaAepAXL.jpg"],
-          "video": null
+      ],
+      "productInformation": [
+        { "name": "Brand Name", "value": "‎Sony" },
+        { "name": "Item Weight", "value": "‎52 pounds" },
+        { "name": "Product Dimensions", "value": "‎57.25 x 13.38 x 33.75 inches" },
+        { "name": "Item model number", "value": "‎XBR65A8H" },
+        { "name": "Is Discontinued By Manufacturer", "value": "‎No" },
+        { "name": "Color Name", "value": "‎Black" },
+        {
+          "name": "Special Features",
+          "value": "‎TRILUMINOS Display Technology; X-Motion Clarity Technology; Ambient Optimization Technology; HDR, IMAX Enhanced, and Netflix Calibrated Mode, Picture Processor X1 Ultimate; Pixel Contrast Booster; Acoustic Surface Audio; Voice Control with the Google Assistant; 4K X-Reality PRO and Object-Based Super Resolution"
+        },
+        { "name": "Speaker Type", "value": "‎Surround" },
+        { "name": "ASIN", "value": "B084KQLVKH" },
+        {
+          "name": "Customer Reviews",
+          "value": "4.8 out of 5 stars 1,128 ratings 4.8 out of 5 stars"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#539 in Electronics (See Top 100 in Electronics) #2 in OLED TVs"
+        },
+        { "name": "Date First Available", "value": "April 6, 2020" },
+        { "name": "Screen Size", "value": "64.5 Inches" },
+        { "name": "Supported Internet Services", "value": "Netflix" },
+        { "name": "Connectivity Technology", "value": "Wireless" },
+        { "name": "Brand", "value": "Sony" },
+        { "name": "Resolution", "value": "4K" }
+      ],
+      "manufacturerProductDescription": [
+        {
+          "media_text": "Pure black. Precise reality. A8H BRAVIA OLED 4K HDR TV WITH ALEXA COMPATIBILITY",
+          "media_link": ["https://m.media-amazon.com/images/S/aplus-media/vc/9eed5903-a89b-4b30-aaac-eabb83f16130.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"]
+        },
+        {
+          "media_text": "Picture Processor X1 Ultimate Bringing the best out of OLED beauty. With unmatched processing power, the Picture Processor X1 Ultimate analyzes content to bring out OLEDs intense contrast with pure blacks, peak brightness and natural colors.",
+          "media_link": ["https://m.media-amazon.com/images/S/aplus-media/vc/7401f650-437a-4595-b0c0-8058b29e93dc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"]
+        },
+        {
+          "media_text": "Previous page Extra depth and realism Vibrant colors and absolute OLED black Millions of individual pixels are supercharged by the Pixel Contrast Booster. Acoustic Surface Audio 2.1 channel sound from the entire screen, creating an immersive multidimensional audio experience. Watch what you love, control it with your voice. Use your voice to access content, services, devices, and more with Android TV and Google Assistant. Supreme resolution, whatever you're watching. Experience a more natural picture with 4K X-Reality PRO \u0026 Object-Based Super Resolution. Bringing you all the world’s colors See exactly what the creator intended with the advanced color and gradation of TRILUMINOS Display. Next page 1 Pixel Contrast Booster 2 Acoustic Surface Audio 3 Android TV 4 4K X-Reality PRO 5 TRILUMINOS Display",
+          "media_link": []
+        },
+        {
+          "media_text": "Previous page Bright and clear motion. OLED + X-Motion Clarity makes fast-moving scenes bright and clear. Sony’s unique Ambient Optimization technology Picture and sound are automatically adjusted to your environment. Ultra-high resolution and HDR video content HDR, Dolby Vision, IMAX Enhanced and Netflix Calibrated Mode bring dazzling detail and color. Next page 1 Works with Alexa 2 X-Motion Clarity 3 Supreme Picture \u0026 Sound 4 4K HDR",
+          "media_link": []
+        },
+        {
+          "media_text": "Previous page Incredibly thin one-slate design. The super-slim one-slate design and narrow aluminum bezel harmoniously blend into any environment. Premium metal stand, ready for soundbars. The stand can be low profile for distraction-free viewing or adjusted up to fit a sound bar. available on 55”/65” Hang your TV like a work of art Hang your TV flush to the wall with the SU-WL855 ultra-slim wall-mount bracket (sold separately). Next page 1 Super-slim 2 Premium metal stand 3 Ultra-slim wall-mount",
+          "media_link": []
+        },
+        {
+          "media_text": "Sony 4K HDR TVS A8H Series A9S MASTER Series A9G MASTER Series Z8H Series X950H Series X900H Series X800H Series Screen sizes 55\" / 65\" 48\" 55\" / 65\" / 77\" 75\"/ 85\" 49\" / 55\" / 65\" / 75\" / 85\" 55\" / 65\" / 75\" / 85\" 43\"/ 49\"/ 55\"/ 65\"/ 75\"/ 85\" Display Technology OLED OLED OLED LED (Advanced Full-Array) LED (Advanced Full-Array) LED (Full-Array) LED Display Resolution 4K HDR 4K HDR 4K HDR 8K HDR 4K HDR 4K HDR 4K HDR Picture Processor X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 Ultimate (Best of Sony) X1 4K HDR X1 4K HDR Contrast OLED + Pixel Contrast Booster OLED + Pixel Contrast Booster OLED + Pixel Contrast Booster 8K XDR Pro 14x X-tended Dynamic Range Pro 6x X-tended Dynamic Range Dynamic Contrast Enhancer Refresh Rate X-Motion Clarity - 120HZ X-Motion Clarity - 120HZ MotionFlow XR - 120HZ X-Motion Clarity - 120HZ X-Motion Clarity - 120HZ X-Motion Clarity - 120HZ MotionFlow XR240 - 60HZ Viewing Angle OLED Wide Angle OLED Wide Angle OLED Wide Angle X-Wide Angle X-Wide Angle (Excluding 49\") — — Netflix Calibrated Mode ✔ ✔ ✔ ✔ ✔ ✔ ✘ Dolby Vision \u0026 Atmos ✔ ✔ ✔ ✔ ✔ ✔ ✔ Sound Technology Acoustic Surface Audio Acoustic Surface Audio Acoustic Surface Audio+ Acoustic Multi-Audio Acoustic Multi-Audio (no 49\") Acoustic Multi-Audio (No 55\") — Android TV w/ Google Assistant Yes Yes Yes (Hands Free) Yes (Hands Free) Yes (Hands Free) Yes Yes Alexa/AirPlay/HomeKit Compat. ✔ ✔ ✔ ✔ ✔ ✔ ✔",
+          "media_link": []
         }
-      },
-      {
-        "reviewerName": "Sam Wood",
-        "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFK7WKTOGFRB5JJWXFNE5E4HCXHA",
-        "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1ZE5OK2HSTH30?ASIN=B084KQLVKH",
-        "reviewRating": "1.0 out of 5 stars",
-        "reviewDate": "Reviewed in the United States on July 18, 2020",
-        "reviewTitle": "Terrible Software/OS... Frustrating... Don't do it.",
-        "reviewText": "The good? Picture is nice. That's about it. The problem? This thing is super laggy. Even turning the volume up or down lags. Push the volume button down and it takes a second to respond. Then, sometimes the TV won't respond at all. Push a button on the remote and the TV just sits there...... then after pushing a different button, and another button (trying to get it to do something) you give up, and maybe think about removing power to the TV to get it to reset.... and that's when the TV responds with all of the buttons that you have pushed. ***DO NOT BUY THIS TV*** Or do buy it and prepared to be frustrated out of your mind. This is my first and last Sony TV...",
-        "reviewVotes": "146 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": { "images": [], "video": null }
-      },
-      {
-        "reviewerName": "Ian MacDonald",
-        "reviewerLink": null,
-        "reviewLink": null,
-        "reviewRating": "2.0 out of 5 stars",
-        "reviewDate": "Reviewed in Canada on December 3, 2020",
-        "reviewTitle": "Buyer beware of defective screen.",
-        "reviewText": "The first TV arrived with a defective panel. The right 12 inches or so of the screen is noticeably brighter than the rest of the scene. Amazon provided a replacement, but it has serious issues as well. While it doesn't have the vertical banding of the first, the replacement screen has bright lines both vertically and horizontally across the screen. They are evenly spaced in a grid so must be from the manufacturing of the panel. As someone who watches a lot of darker content this makes the TV unwatchable. I expect much better from a $2500 TV.Edit. Returning this has been a nightmare. Both of the TVs were shipped back and arrived Dec 10 \u0026 15. The first one shows as returned in the Amazon app,but as of Dec 18 the second one still shows it hasn't arrived even though tracking says it has. Customer service sent me an email confirming that it had indeed arrived, but no refund or confirmation in the system that I can see that it arrived. Buy with caution incase you have to return the item as you may either have to pay the CC bill, or incur interest on the return.",
-        "reviewVotes": "10 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": { "images": [], "video": null }
-      },
-      {
-        "reviewerName": "Jeff van Leeuwen",
-        "reviewerLink": null,
-        "reviewLink": null,
-        "reviewRating": "5.0 out of 5 stars",
-        "reviewDate": "Reviewed in Canada on September 23, 2020",
-        "reviewTitle": "Never leaving my couch again.",
-        "reviewText": "This is a fantastic piece of technology. I am amazed at the sound quality coming from a 1.5\" thick rear panel. Absolutely great. Video is crisp on a pencil thin screen. Paired with an android phone, setup was a breeze.Menu is slick and all apps that I've tried run well.Overall, super happy with busting the bank a bit for this one. Worth the price tag.",
-        "reviewVotes": "4 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": { "images": [], "video": null }
-      },
-      {
-        "reviewerName": "Colin Winchester",
-        "reviewerLink": null,
-        "reviewLink": null,
-        "reviewRating": "5.0 out of 5 stars",
-        "reviewDate": "Reviewed in Canada on November 19, 2020",
-        "reviewTitle": "Sony Bravia TVs are still awesome - this is the TV I have been dreaming of!",
-        "reviewText": "This is an amazing TV with a picture that is \"to die for\" and very big sound. Remote is very good, easy to use. I have only just begun to try out some of the more advanced features. Even on sale, the price tag is significant - so I put the value for money down one notch. But overall, this is the TV I have been dreaming of.",
-        "reviewVotes": "2 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": { "images": [], "video": null }
-      },
-      {
-        "reviewerName": "Roadrunner",
-        "reviewerLink": null,
-        "reviewLink": null,
-        "reviewRating": "5.0 out of 5 stars",
-        "reviewDate": "Reviewed in Canada on March 8, 2021",
-        "reviewTitle": "Great TV!",
-        "reviewText": "We bought this as a Covid present for our good behaviour! Haven't gone anywhere for over a year. May as well make our confinement enjoyable! Delivery was very fast. TV was packed well and not damaged. Set up was easy although the size makes it awkward . We were very careful and playing with it immediately. Love the voice command feature. Picture is AMAZING! Colour is clear, bright and the the best I've seen. Should have bought this 6 months ago.",
-        "reviewVotes": "One person found this helpful",
-        "reviewVerifiedPurchase": false,
-        "reviewCommentCount": 0,
-        "media": { "images": [], "video": null }
-      },
-      {
-        "reviewerName": "Gary Ball",
-        "reviewerLink": null,
-        "reviewLink": null,
-        "reviewRating": "5.0 out of 5 stars",
-        "reviewDate": "Reviewed in Canada on October 22, 2020",
-        "reviewTitle": "The ultimate TV experience",
-        "reviewText": "This TV does what I expected and more. The picture is clear, precise and well lit. Refresh rate is tremendous. SMART features and layout easy to setup and operate.",
-        "reviewVotes": "3 people found this helpful",
-        "reviewVerifiedPurchase": true,
-        "reviewCommentCount": 0,
-        "media": { "images": [], "video": null }
-      }
-    ]
+      ],
+      "sponsoredAds": [
+        {
+          "spTitle": "Sony A80J 65 Inch TV: BRAVIA XR OLED 4K Ultra HD Smart Google TV with Dolby Vision HDR and Alexa Compatibility XR65A80J- 2021 Model",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,198.00",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8\u0026adId=A037822819WUK2RZ1W93F\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08TKR3WLJ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08TKR3WLJ%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
+          "spAverageReview": "5 Star",
+          "spReviewCount": 80,
+          "spIsPrime": true,
+          "spAsin": "B08TKR3WLJ"
+        },
+        {
+          "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with an Additional 1 Year Coverage by Epic Protect (2020)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$1,853.19",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8\u0026adId=A00850091J7L7P9YTMCFZ\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08HSSYKYK%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08HSSYKYK%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a%26smid%3DA2K7RN1DSQCI9O",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 2,
+          "spIsPrime": false,
+          "spAsin": "B08HSSYKYK"
+        },
+        {
+          "spTitle": "LG OLED65C1PUB Alexa Built-in C1 Series 65\" 4K Smart OLED TV (2021)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,096.99",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8\u0026adId=A0402649UBASFKTGV256\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08WG4HKKY%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08WG4HKKY%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 98,
+          "spIsPrime": true,
+          "spAsin": "B08WG4HKKY"
+        },
+        {
+          "spTitle": "Sony XBR-55A9G 55\" (3840 x 2160) Bravia 4K Ultra High Definition Smart OLED TV with a Walts TV Medium Full Motion Mount for 32\"-65\" Compatible TV's and a Walts HDTV Screen Cleaner Kit (2021)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,375.98",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8\u0026adId=A04592661GTLZ4OFHYWED\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB09449GBW3%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09449GBW3%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
+          "spAverageReview": "1 Star",
+          "spReviewCount": 1,
+          "spIsPrime": false,
+          "spAsin": "B09449GBW3"
+        },
+        {
+          "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with a Sony HT-G700 3.1 Channel Bluetooth Soundbar and Wireless Subwoofer (2020)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,192.99",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8\u0026adId=A00806252DPC7TZLFO16P\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08FRR8T7Z%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08FRR8T7Z%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a%26smid%3DA2K7RN1DSQCI9O",
+          "spAverageReview": "5 Star",
+          "spReviewCount": 5,
+          "spIsPrime": false,
+          "spAsin": "B08FRR8T7Z"
+        },
+        {
+          "spTitle": "Sony X91J 85 Inch TV: Full Array LED 4K Ultra HD Smart Google TV with Dolby Vision HDR and Alexa Compatibility KD85X91J- 2021 Model",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,998.00",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8\u0026adId=A01759832EYXZ9Z4CYDOB\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08XLDLRBH%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08XLDLRBH%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 114,
+          "spIsPrime": true,
+          "spAsin": "B08XLDLRBH"
+        },
+        {
+          "spTitle": "Sony XBR-55A9G 55-inch TV: MASTER Series BRAVIA OLED 4K Ultra HD Smart TV with HDR and Alexa Compatibility - 2019 Model",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,298.00",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8\u0026adId=A06315723KTIFGV7QAJY4\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB07P11D928%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07P11D928%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a%26smid%3DAXCB29L39I26U",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 810,
+          "spIsPrime": true,
+          "spAsin": "B07P11D928"
+        },
+        {
+          "spTitle": "Sony X85J 55 Inch TV: 4K Ultra HD LED Smart Google TV with Native 120HZ Refresh Rate, Dolby Vision HDR and Alexa Compatibility KD55X85J- 2021 Model",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$998.00",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8\u0026adId=A06345291L8PLTCP9GYHN\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08WJKXNLV%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08WJKXNLV%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 11,
+          "spIsPrime": true,
+          "spAsin": "B08WJKXNLV"
+        },
+        {
+          "spTitle": "LG OLED65GXPUA Alexa BuiltIn GX 65-inch Gallery Design 4K Smart OLED TV (2020 Model)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,096.99",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8\u0026adId=A06714133RMR22N9IOMJ0\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB0817K8TJJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0817K8TJJ%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 289,
+          "spIsPrime": true,
+          "spAsin": "B0817K8TJJ"
+        },
+        {
+          "spTitle": "Sony XBR-65X950H 65-Inch Class 4K Ultra HD HDR Android Smart LED TV - 3840 x 2160-120 Hz - 16:9-16 GB - Wi-Fi - Bluetooth - Alexa - Google Assistant - Black (Renewed)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$1,510.90",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8\u0026adId=A0681910263Z9I9OKYOK7\u0026qualifier=1624795059\u0026id=920409713674215\u0026widgetName=sp_detail\u0026url=%2Fdp%2FB08WJL56RQ%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB08WJL56RQ%26pd_rd_w%3DGhrUY%26pf_rd_p%3D91afecf5-8b2e-41e2-9f11-dc6992c6eaa1%26pd_rd_wg%3DurVKd%26pf_rd_r%3DRP0CYJX72E51RAC5891H%26pd_rd_r%3D65684faa-98b8-4c5b-ba9e-42d60aaa436a",
+          "spAverageReview": null,
+          "spReviewCount": 0,
+          "spIsPrime": false,
+          "spAsin": "B08WJL56RQ"
+        },
+        {
+          "spTitle": "Sony A80J 65 Inch TV: BRAVIA XR OLED 4K Ultra HD Smart Google TV with Dolby Vision HDR and Alexa Compatibility XR65A80J- 2021 Model",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,198.00",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8\u0026adId=A037822819WUK2RZ1W93F\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08TKR3WLJ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08TKR3WLJp13NParams",
+          "spAverageReview": "5 Star",
+          "spReviewCount": 80,
+          "spIsPrime": true,
+          "spAsin": "B08TKR3WLJ"
+        },
+        {
+          "spTitle": "Sony XBR-55A9G 55\" (3840 x 2160) Bravia 4K Ultra High Definition Smart OLED TV with a Walts TV Medium Full Motion Mount for 32\"-65\" Compatible TV's and a Walts HDTV Screen Cleaner Kit (2021)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,375.98",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8\u0026adId=A04592661GTLZ4OFHYWED\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB09449GBW3%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09449GBW3p13NParams",
+          "spAverageReview": "1 Star",
+          "spReviewCount": 1,
+          "spIsPrime": false,
+          "spAsin": "B09449GBW3"
+        },
+        {
+          "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with an Additional 1 Year Coverage by Epic Protect (2020)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$1,853.19",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8\u0026adId=A00850091J7L7P9YTMCFZ\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08HSSYKYK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08HSSYKYKp13NParams%26smid%3DA2K7RN1DSQCI9O",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 2,
+          "spIsPrime": false,
+          "spAsin": "B08HSSYKYK"
+        },
+        {
+          "spTitle": "Full Motion Swivel Articulating TV Wall Mount Bracket for Most 50-100 inch LCD, OLED 4K Flat Curved TV with 29 Inch Long Extension Arm, Fits 24 Inch Studs Max VESA 800x600mm up to 154 lbs by Pipishell",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$79.98",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8\u0026adId=A00657681M47BTROYYQZA\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08CC91QX2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08CC91QX2p13NParams",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 149,
+          "spIsPrime": true,
+          "spAsin": "B08CC91QX2"
+        },
+        {
+          "spTitle": "Sony XBR-65A8H Bravia 65\" OLED Ultra High Definition Smart HDR 4K TV with a Sony HT-G700 3.1 Channel Bluetooth Soundbar and Wireless Subwoofer (2020)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,192.99",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8\u0026adId=A00806252DPC7TZLFO16P\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08FRR8T7Z%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08FRR8T7Zp13NParams%26smid%3DA2K7RN1DSQCI9O",
+          "spAverageReview": "5 Star",
+          "spReviewCount": 5,
+          "spIsPrime": false,
+          "spAsin": "B08FRR8T7Z"
+        },
+        {
+          "spTitle": "BLUE STONE Tilt TV Wall Mount Bracket for Most 32-83 Inches TVs, TV Wall Mount with VESA up to 600x400mm, Weight up to 165lbs, Fit 16\", 18\", 24\" Studs, LED, LCD, OLED, 4K Flat Screen Curved TV Mount",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$24.95",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8\u0026adId=A02103191EMYWHGEBX4DW\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB07Y1MFXT5%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07Y1MFXT5p13NParams%26smid%3DA1FDNZQBIIBNTO",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 2,
+          "spIsPrime": true,
+          "spAsin": "B07Y1MFXT5"
+        },
+        {
+          "spTitle": "LG OLED65C1PUB Alexa Built-in C1 Series 65\" 4K Smart OLED TV (2021)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,096.99",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8\u0026adId=A0402649UBASFKTGV256\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08WG4HKKY%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08WG4HKKYp13NParams",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 98,
+          "spIsPrime": true,
+          "spAsin": "B08WG4HKKY"
+        },
+        {
+          "spTitle": "TV Wall Mount Bracket Full Motion Swivel Articulating for Most 50-90 inch LCD, OLED 4K Flat Curved TV with 29 Inch Long Extension Arm, Fits 24 Inch Studs Max VESA 800x400mm up to 154 lbs by Pipishell",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$84.25",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8\u0026adId=A0041289F2LHMXRWLF3R\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08CC6LXNN%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08CC6LXNNp13NParams",
+          "spAverageReview": "5 Star",
+          "spReviewCount": 273,
+          "spIsPrime": true,
+          "spAsin": "B08CC6LXNN"
+        },
+        {
+          "spTitle": "LG OLED77GXPUA Alexa BuiltIn GX 77-inch Gallery Design 4K Smart OLED TV (2020 Model)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$3,296.99",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8\u0026adId=A07750515U7LHZ1CTW0N\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB0829RZXLJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0829RZXLJp13NParams",
+          "spAverageReview": "4 Star",
+          "spReviewCount": 87,
+          "spIsPrime": true,
+          "spAsin": "B0829RZXLJ"
+        },
+        {
+          "spTitle": "Sony XR55A90J 55\" A90J Series HD OLED 4K Smart TV with an Additional 4 Year Coverage by Epic Protect (2021)",
+          "spHeadings": ["Products related to this item", "Sponsored Hide feedback"],
+          "spPrice": "$2,937.26",
+          "spLink": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8\u0026adId=A08582773H6H73OEJ6HLE\u0026qualifier=1624795059\u0026id=6531000051380459\u0026widgetName=sp_detail2\u0026url=%2Fdp%2FB08Z8H2F31%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB08Z8H2F31p13NParams",
+          "spAverageReview": null,
+          "spReviewCount": 0,
+          "spIsPrime": false,
+          "spAsin": "B08Z8H2F31"
+        }
+      ],
+      "productReviewBottom": [{ "5star": "87%" }, { "4star": "7%" }, { "3star": "2%" }, { "2star": "2%" }, { "1star": "2%" }],
+      "reviews": [
+        {
+          "reviewerName": "Samantha Friedman",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGVERHE3HKDJWPLALQZWCUNX3QKA",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R16HD118MMHN3W?ASIN=B084KQLVKH",
+          "reviewRating": "1.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on November 18, 2020",
+          "reviewTitle": "NEVER buy expensive products from Amazon - Use Best Buy",
+          "reviewText": "Instead of writing about the TV itself, my focus in this review is going to be on the disastrous process of purchasing this TV, “expert installation” and lack of reasonable support through the terrible Happiness Guarantee process once things went wrong.When I saw this TV on a great sale during Prime Day, I was excited! Since I live alone, I knew I needed to purchase expert installation to have something like this mounted. I strongly considered using Best Buy instead as I have had good experience with them, but being a long time Amazon customer I wanted to give them a try.The initial (yes, I have now been through multiple deliveries) delivery of the TV was fine. The day of the “expert installation” was scheduled the technician showed up by himself but said the TV was not heavy and he could confidently mount it to my wall on his own, as he has done before. (Question for Amazon-why would this be an acceptable policy?) I said ok and let the technician get to work. To start, he was supposed to measure 42 inches from the floor - I didn’t realize until much later but he measured 46 inches from the floor. The technician spent over an hour and a half getting things ready to put the TV on the mount. It felt like a while but I remained patient.When the time finally came, we lifted the TV onto the wall mount on the wall. The technician then went to tighten the TV to the mount and THE ENTIRE MOUNT AND TV fell out from the wall, banged things on its way and crashed on the floor. The pictures of the aftermath are what I have posted in this review - as you can clearly see, there is not only major damage to the TV but my personal property as well.The problem was clear - the knuts used to screw the mount into the wall were tiny, had no anchor and we’re not on a stud. I’m no technician but as an average person, seems pretty obvious that with an expensive 65 inch OLED that is the wrong way to securely mount it anywhere.I was now left with a broken TV and no plan to fix anything. It took me over 6 hours on the phone to setup a replacement TV to be sent and have someone pick up the broken one. The first time they were supposed to pick up the TV, Amazon did not so I had to go through this twice over a two week period and it was beyond frustrating having multiple boxes taxing up most of my apartment.The Amazon Happiness Guarantee process may have been the icing on the cake for how terrible this became. I was required to fill out tons of information but NO ONE would pick up the phone to call me and talk through it. Instead, they want me to have even more than the 6 people already in my apartment to now come in and take estimates to see what could be done to fix the work. Given my career, the amount of insane time I have put into getting this resolved to date and the risk of COVID, why is it so difficult for Amazon to find a way to offer me something to address this clear disaster they created that doesn’t put me at further risk of catching this deadly virus going around? Why couldn’t they make a phone call? Why not even an offer to waive my Prime membership for a couple of years?In case you are considering using Amazon in the future for a large TV purchase and need help with installation - DON’T DO IT! Go to Best Buy. They actually do care and backup their work. I will be documenting my experience with the second round of mounting, which has also been disappointing, in a separate review. The point I hope is clear to anyone reading this - don’t let the Amazon Happiness Guarantee make you think when things go wrong Amazon can help. The level of support that should be provided for a purchase of this size is not something Amazon is capable of - even in a case as blatantly clear as mine. Nor are they capable of effectively managing their vendors as I experienced with Goodman Solutions who serve the Denver, CO market for Amazon installations.I’m sure the TV is great... but I won’t know until I am actually able to watch it and it’s been over a month since my original purchase. I wish my focus was on the quality of the TV. Unfortunately, my focus has been and remains on Amazon’s negligence in vendor management and unacceptable approach to resolution. Felt it necessary to share so others don’t have to go through the same thing I did.",
+          "reviewVotes": "290 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": ["https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/719vSPLbr-L.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/71NMou5wbFL.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81KIksKyU0L.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81MpYGhnj0L.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81UpV4GEdDL.jpg", "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/81uYLuXlx5L.jpg"],
+            "video": null
+          }
+        },
+        {
+          "reviewerName": "Larry Tisor",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQNFDLZLUUB6L7EP64PTR4ONB7Q",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1OGI75UU5CY1O?ASIN=B084KQLVKH",
+          "reviewRating": "1.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on June 8, 2020",
+          "reviewTitle": "Very disappointed!",
+          "reviewText": "Picture keeps dimming even with light sensor turned off.Picture starts off great , then gets dark.I want my picture settings to stay where I put them.I am UNHAPPY, wish I could send it back.Sony's auto dimming feature is terrible!",
+          "reviewVotes": "262 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": { "images": [], "video": null }
+        },
+        {
+          "reviewerName": "OnlyLlama",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBDDZUe57RE7NIQNQGZQZY6NZEQQ",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/RRTSRMW5TDXDI?ASIN=B084KQLVKH",
+          "reviewRating": "2.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on October 19, 2020",
+          "reviewTitle": "Ads. Everywhere. Did I just pay money for an ad-dispensing machine?",
+          "reviewText": "Let's get the obvious out the way. The image quality, viewing angle, black levels are all fantastic. This is a 5-star TV through and through when it comes to image quality, especially when fed a 4K 60hz signal.But I just paid circa $2K for a TV that forces ads on me. If I disable one type of \"suggested\" programming in settings, another one comes up. It's an ad whack-a-mole. The latest one I got today was a \"Bravia Notification\", picture attached. There is no way to disable it. Want to switch from Netflix to YouTube TV? Ads. Turning on your TV? Ads.This is wrong. I will not be the product. I reject the now-common practice of forcing ads on all smart TVs. Sony+Google have crossed the line, and I refuse to believe that it's normal to just sit there and be forced to consume marketing materials as you go about simple daily tasks. Absolutely disgusted with Sony. I do not recommend this TV purely on those grounds.I honestly don't know what to do since TCL, Samsung and LG all have equally intrusive or worse ads. That doesn't make it ok for Sony to sink to this level. I had an XBR 27\" curved CRT, a 32\" flat screen XBR, a 2007 40\" XBR LED, a 2013 55\" Bravia LED and now this TV. Sony as a brand is now dead to me since it's clearly become Google's b****.",
+          "reviewVotes": "213 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": ["https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg", "https://images-na.ssl-images-amazon.com/images/I/71PuaAepAXL.jpg"],
+            "video": null
+          }
+        },
+        {
+          "reviewerName": "Sam Wood",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFK7WKTOGFRB5JJWXFNE5E4HCXHA",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1ZE5OK2HSTH30?ASIN=B084KQLVKH",
+          "reviewRating": "1.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on July 18, 2020",
+          "reviewTitle": "Terrible Software/OS... Frustrating... Don't do it.",
+          "reviewText": "The good? Picture is nice. That's about it. The problem? This thing is super laggy. Even turning the volume up or down lags. Push the volume button down and it takes a second to respond. Then, sometimes the TV won't respond at all. Push a button on the remote and the TV just sits there...... then after pushing a different button, and another button (trying to get it to do something) you give up, and maybe think about removing power to the TV to get it to reset.... and that's when the TV responds with all of the buttons that you have pushed. ***DO NOT BUY THIS TV*** Or do buy it and prepared to be frustrated out of your mind. This is my first and last Sony TV...",
+          "reviewVotes": "146 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": { "images": [], "video": null }
+        },
+        {
+          "reviewerName": "Ian MacDonald",
+          "reviewerLink": null,
+          "reviewLink": null,
+          "reviewRating": "2.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on December 3, 2020",
+          "reviewTitle": "Buyer beware of defective screen.",
+          "reviewText": "The first TV arrived with a defective panel. The right 12 inches or so of the screen is noticeably brighter than the rest of the scene. Amazon provided a replacement, but it has serious issues as well. While it doesn't have the vertical banding of the first, the replacement screen has bright lines both vertically and horizontally across the screen. They are evenly spaced in a grid so must be from the manufacturing of the panel. As someone who watches a lot of darker content this makes the TV unwatchable. I expect much better from a $2500 TV.Edit. Returning this has been a nightmare. Both of the TVs were shipped back and arrived Dec 10 \u0026 15. The first one shows as returned in the Amazon app,but as of Dec 18 the second one still shows it hasn't arrived even though tracking says it has. Customer service sent me an email confirming that it had indeed arrived, but no refund or confirmation in the system that I can see that it arrived. Buy with caution incase you have to return the item as you may either have to pay the CC bill, or incur interest on the return.",
+          "reviewVotes": "10 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": { "images": [], "video": null }
+        },
+        {
+          "reviewerName": "Jeff van Leeuwen",
+          "reviewerLink": null,
+          "reviewLink": null,
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on September 23, 2020",
+          "reviewTitle": "Never leaving my couch again.",
+          "reviewText": "This is a fantastic piece of technology. I am amazed at the sound quality coming from a 1.5\" thick rear panel. Absolutely great. Video is crisp on a pencil thin screen. Paired with an android phone, setup was a breeze.Menu is slick and all apps that I've tried run well.Overall, super happy with busting the bank a bit for this one. Worth the price tag.",
+          "reviewVotes": "4 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": { "images": [], "video": null }
+        },
+        {
+          "reviewerName": "Colin Winchester",
+          "reviewerLink": null,
+          "reviewLink": null,
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on November 19, 2020",
+          "reviewTitle": "Sony Bravia TVs are still awesome - this is the TV I have been dreaming of!",
+          "reviewText": "This is an amazing TV with a picture that is \"to die for\" and very big sound. Remote is very good, easy to use. I have only just begun to try out some of the more advanced features. Even on sale, the price tag is significant - so I put the value for money down one notch. But overall, this is the TV I have been dreaming of.",
+          "reviewVotes": "2 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": { "images": [], "video": null }
+        },
+        {
+          "reviewerName": "Roadrunner",
+          "reviewerLink": null,
+          "reviewLink": null,
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on March 8, 2021",
+          "reviewTitle": "Great TV!",
+          "reviewText": "We bought this as a Covid present for our good behaviour! Haven't gone anywhere for over a year. May as well make our confinement enjoyable! Delivery was very fast. TV was packed well and not damaged. Set up was easy although the size makes it awkward . We were very careful and playing with it immediately. Love the voice command feature. Picture is AMAZING! Colour is clear, bright and the the best I've seen. Should have bought this 6 months ago.",
+          "reviewVotes": "One person found this helpful",
+          "reviewVerifiedPurchase": false,
+          "reviewCommentCount": 0,
+          "media": { "images": [], "video": null }
+        },
+        {
+          "reviewerName": "Gary Ball",
+          "reviewerLink": null,
+          "reviewLink": null,
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on October 22, 2020",
+          "reviewTitle": "The ultimate TV experience",
+          "reviewText": "This TV does what I expected and more. The picture is clear, precise and well lit. Refresh rate is tremendous. SMART features and layout easy to setup and operate.",
+          "reviewVotes": "3 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": { "images": [], "video": null }
+        }
+      ]
+    }
   }
 }
