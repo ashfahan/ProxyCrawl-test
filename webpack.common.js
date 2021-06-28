@@ -20,9 +20,9 @@ module.exports = {
       scriptLoading: "defer",
       inject: true,
       favicon: "./public/favicon.ico",
-      template: "./public/template.html"
+      template: "./public/template.html",
     }),
     new MiniCssExtractPlugin(),
-    new CompressionPlugin({ algorithm: "gzip" })
-  ]
+    new CompressionPlugin({ algorithm: "gzip" }),
+  ],
 };
