@@ -1,5 +1,7 @@
-.mt-header {
-  padding-top: 100px;
+@media (max-width: 992px) {
+  .mt-header {
+    padding-top: 100px;
+  }
 }
 
 .list.is-inline *[data-separator] {
