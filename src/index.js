@@ -1,5 +1,6 @@
 console.clear();
 import "./style/fluid.css"
+import "bootstrap/dist/css/bootstrap.min.css"
 import "./assets/Bebas-Neue/fonts.css"
 import "./assets/Poppins/fonts.css"
 import "./index.scss";
