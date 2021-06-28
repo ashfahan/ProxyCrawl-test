@@ -3,6 +3,7 @@ const path = require("path");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CompressionPlugin = require("compression-webpack-plugin");
+const CssnanoPlugin = require("cssnano-webpack-plugin");
 
 module.exports = {
   entry: { app: "./src/index.js" },
@@ -30,4 +31,43 @@ module.exports = {
     new MiniCssExtractPlugin(),
     new CompressionPlugin({ algorithm: "gzip" }),
   ],
+  optimization: {
+    minimizer: [
+      new CssnanoPlugin({
+        cssnanoOptions: {
+          preset: [
+            "default",
+            {
+              discardComments: true,
+              normalizeWhitespace: true,
+              uniqueSelectors: true,
+              rawCache: true,
+              calc: true,
+              colormin: true,
+              convertValues: { length: false, angle: false },
+              discardDuplicates: true,
+              discardEmpty: true,
+              discardOverridden: true,
+              mergeLonghand: true,
+              mergeRules: true,
+              minifyGradients: true,
+              minifyParams: true,
+              normalizeCharset: true,
+              normalizeDisplayValues: true,
+              normalizePositions: true,
+              normalizeString: true,
+              normalizeTimingFunctions: true,
+              normalizeUnicode: true,
+              normalizeUrl: true,
+              orderedValues: true,
+              reduceTransforms: true,
+              svgo: true,
+              minifySelectors: false,
+              minifyFontValues: false,
+            },
+          ],
+        },
+      }),
+    ],
+  },
 };
