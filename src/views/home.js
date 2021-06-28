@@ -41,7 +41,7 @@ export const html = () => {
     <main class="img-bg mt-header" style="background-position: unset; background-image: url(${background.file})">
       <section class="relative p-4 h-min-100vh grid align-middle h-100">
         <div class="column w-24 w-12@lg relative">
-          <div class="title is-sm txt-bold">We partner with <span class="txt-outline-primary clr-white">SaaS</span> and <span class="txt-outline-primary clr-white">digital product owners</span> to provide <span class="txt-outline-primary clr-white">design solutions</span> that scale for years to come.</div>
+          <div class="title is-sm txt-bold">Scrap Any <span class="clr-white txt-outline-primary">Amazon Product</span> just enter the product <span class="clr-white txt-outline-primary">URL</span> and you are good to gooo!</div>
           <div class="bg-light py-2 px-4 is-pill mt-2 flex">
             <input type="search" id="url" placeholder="Enter Amazon Url" class="bg-hide input is-min" />
             <button id="searchbutton" class="btn is-sld is-primary is-pill py-2 px-6 ml-4 flex">Search <i class="ml-6 icon ri-search-2-line"></i></button>
