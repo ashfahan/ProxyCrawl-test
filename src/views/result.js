@@ -2,6 +2,7 @@ import axios from "axios";
 import Splide from "@splidejs/splide";
 import "@splidejs/splide/dist/css/splide.min.css";
 import bootstrap from "bootstrap/dist/js/bootstrap.bundle";
+import loading from "../assets/loading.svg";
 
 const title = import("../assets/title.gif");
 const background = import("../assets/background.png");
@@ -25,7 +26,12 @@ export const load = (...data) => {
     file.forEach((file, index) => (resource[index].file = file.default));
     const token = "h2HCtRw9r0ZIgn0wyR0hzA";
     const url = getquerypram(url).url;
-    document.body.innerHTML = "<div>Loading Product info</div>";
+    document.body.innerHTML = `<div class="flex align-middle txt-center justify-center h-min-100vh">
+      <div>
+        <div style="max-width:200px" class="mx-auto">${loading}</div>
+        <div class="txt-2 BebasNeue">Please Wait : Loading Product info</div>
+      </div>
+    </div>`;
     axios
       .get(`https://api.proxycrawl.com/?token=${token}&autoparse=true&url=${url}`)
       .then((resp) => {
@@ -33,7 +39,12 @@ export const load = (...data) => {
         script();
       })
       .catch((error) => {
-        document.body.innerHTML = "Error occured while loading product info";
+        document.body.innerHTML = `<div class="flex align-middle txt-center justify-center h-min-100vh">
+        <div>
+          <div style="max-width:200px" class="mx-auto"><i class="icon title is-lg clr-error ri-close-line"></i></div>
+          <div class="txt-2 BebasNeue">Error occured while loading product info</div>
+        </div>
+      </div>`;
         console.error(error);
       });
   });

@@ -12,7 +12,8 @@ module.exports = {
       { test: /\.html$/, exclude: /node_modules/, use: [{ loader: "html-loader" }] },
       { test: /\.js$/, use: { loader: "babel-loader" } },
       { test: /\.(s[ac]|c)ss$/i, use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader", "postcss-loader"] },
-      { test: /\.(png|svg|jpg|jpeg|ttf|otf|woff|woff2|eot|gif)$/i, use: { loader: "file-loader", options: { name: "[name].[hash].[ext]", outputPath: "assets" } } },
+      { test: /\.(png|jpg|jpeg|ttf|otf|woff|woff2|eot|gif)$/i, use: { loader: "file-loader", options: { name: "[name].[hash].[ext]", outputPath: "assets" } } },
+      { test: /\.svg$/, loader: "svg-inline-loader" },
     ],
   },
   plugins: [
@@ -21,6 +22,10 @@ module.exports = {
       inject: true,
       favicon: "./public/favicon.ico",
       template: "./public/template.html",
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true,
+      },
     }),
     new MiniCssExtractPlugin(),
     new CompressionPlugin({ algorithm: "gzip" }),
