@@ -1,4 +1,5 @@
 console.clear();
+import "./style/fluid.min.css"
 import "./index.scss";
 
 // dymanicall import and add page
