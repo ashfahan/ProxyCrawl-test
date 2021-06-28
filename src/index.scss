@@ -1,3 +1,12 @@
-body {
-  margin: 0;
+.mt-header {
+  padding-top: 100px;
+}
+
+.list.is-inline *[data-separator] {
+  &:not(:first-child) {
+    &::before {
+      content: attr(data-separator);
+      padding-right: 1em;
+    }
+  }
 }
