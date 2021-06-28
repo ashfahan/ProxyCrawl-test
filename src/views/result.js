@@ -119,7 +119,7 @@ export const html = (data) => {
           .join("")}
         </ol>
 
-        <h1 class="txt-normal mb-0 clr-black">Sony A8H 65-inch TV: BRAVIA OLED 4K Ultra HD Smart TV with HDR and Alexa Compatibility - 2020 Model</h1>
+        <h1 class="txt-normal mb-0 clr-black">${data.name}</h1>
           <div class="my-4 flex align-middle">
             ${
               data.isPrime
